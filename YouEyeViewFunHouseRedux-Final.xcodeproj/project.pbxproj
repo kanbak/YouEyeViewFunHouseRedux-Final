@@ -18,6 +18,8 @@
 		55B9D67B178E4F1B00F716A9 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55B9D67A178E4F1B00F716A9 /* Default-568h@2x.png */; };
 		55B9D67E178E4F1B00F716A9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B9D67D178E4F1B00F716A9 /* ViewController.m */; };
 		55B9D681178E4F1B00F716A9 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 55B9D67F178E4F1B00F716A9 /* ViewController.xib */; };
+		55B9D689178E50FD00F716A9 /* MMLogoBW.png in Resources */ = {isa = PBXBuildFile; fileRef = 55B9D687178E50FD00F716A9 /* MMLogoBW.png */; };
+		55B9D68A178E50FD00F716A9 /* MMLogoColor.png in Resources */ = {isa = PBXBuildFile; fileRef = 55B9D688178E50FD00F716A9 /* MMLogoColor.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,8 @@
 		55B9D67C178E4F1B00F716A9 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		55B9D67D178E4F1B00F716A9 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		55B9D680178E4F1B00F716A9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		55B9D687178E50FD00F716A9 /* MMLogoBW.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MMLogoBW.png; sourceTree = "<group>"; };
+		55B9D688178E50FD00F716A9 /* MMLogoColor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MMLogoColor.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +91,8 @@
 				55B9D674178E4F1B00F716A9 /* AppDelegate.m */,
 				55B9D67C178E4F1B00F716A9 /* ViewController.h */,
 				55B9D67D178E4F1B00F716A9 /* ViewController.m */,
+				55B9D687178E50FD00F716A9 /* MMLogoBW.png */,
+				55B9D688178E50FD00F716A9 /* MMLogoColor.png */,
 				55B9D67F178E4F1B00F716A9 /* ViewController.xib */,
 				55B9D66B178E4F1B00F716A9 /* Supporting Files */,
 			);
@@ -163,6 +169,8 @@
 				55B9D679178E4F1B00F716A9 /* Default@2x.png in Resources */,
 				55B9D67B178E4F1B00F716A9 /* Default-568h@2x.png in Resources */,
 				55B9D681178E4F1B00F716A9 /* ViewController.xib in Resources */,
+				55B9D689178E50FD00F716A9 /* MMLogoBW.png in Resources */,
+				55B9D68A178E50FD00F716A9 /* MMLogoColor.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
