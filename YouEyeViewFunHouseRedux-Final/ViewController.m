@@ -2,8 +2,8 @@
 //  ViewController.m
 //  YouEyeViewFunHouseRedux
 //
-//  Created by alexchoi1 on 7/10/13.
-//  Copyright (c) 2013 Good Time Games. All rights reserved.
+///  Created by Umut Kanbak on 7/10/13.
+//  Copyright (c) 2013 Umut Kanbak. All rights reserved.
 //
 
 #import "ViewController.h"
@@ -91,7 +91,7 @@
     
     sliderLabel = [[UILabel alloc] initWithFrame:CGRectMake(190, 100, 75, 25)];
     sliderLabel.text = @"TBD";
-    [self.view addSubview:sliderLabel ];
+    [self.view addSubview:sliderLabel];
     
     //everything button
     
